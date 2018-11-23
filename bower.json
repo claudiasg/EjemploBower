@@ -1,0 +1,17 @@
+{
+  "name": "EjemploBowerGit",
+  "homepage": "https://github.com/claudiasg/EjemploBower",
+  "authors": [
+    "Claudia <claudi_a14@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
